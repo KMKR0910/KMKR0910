@@ -10,8 +10,8 @@
 
 ##  About Me
 -  Software Engineering Undergraduate  
--  Passionate about Backend Development & AI  
--  Currently exploring Machine Learning & Data Analysis  
+-  Full Stack Developer 
+-  Currently exploring AI/ML & Data Analysis  
 -  Interested in Quantum Computing and its future impact on software engineering  
 -  Love building real-world systems and solving problems  
 -  Always learning new technologies  
@@ -42,9 +42,10 @@
 ---
 
 ##  Currently Learning
+- Scalable Backend Architecture 
 - Artificial Intelligence & Machine Learning  
 - Data Science with Python  
-- Scalable Backend Architecture  
+
 
 ---
 
