@@ -19,6 +19,18 @@
 ---
 
 
+##  Academic Projects (GitHub Organizations)
+
+I have contributed to multiple university group projects through GitHub organizations, gaining experience in team collaboration, version control, and real-world software development workflows.
+
+Organizations I contribute to:
+
+- [COHNDSE242F-Group](https://github.com/COHNDSE242F-Group)
+- [COBSCCOMP252P-Group](https://github.com/COBSCCOMP252P-Group)
+
+
+---
+
 ##  GitHub Stats
 
 <div align="center">
