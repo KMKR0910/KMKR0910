@@ -43,15 +43,7 @@ Organizations I contribute to:
 
 </div>
 
----
 
-##  Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KMKR0910&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&area_color=00D9FF" />
-</div>
-
----
 
 ##  Currently Learning
 - Scalable Backend Architecture 
